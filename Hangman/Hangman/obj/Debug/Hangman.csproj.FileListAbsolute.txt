@@ -1,0 +1,10 @@
+C:\Users\Alina\source\repos\Hangman\Hangman\bin\Debug\Hangman.exe.config
+C:\Users\Alina\source\repos\Hangman\Hangman\bin\Debug\Hangman.exe
+C:\Users\Alina\source\repos\Hangman\Hangman\bin\Debug\Hangman.pdb
+C:\Users\Alina\source\repos\Hangman\Hangman\obj\Debug\Hangman.csprojAssemblyReference.cache
+C:\Users\Alina\source\repos\Hangman\Hangman\obj\Debug\Hangman.Form1.resources
+C:\Users\Alina\source\repos\Hangman\Hangman\obj\Debug\Hangman.Properties.Resources.resources
+C:\Users\Alina\source\repos\Hangman\Hangman\obj\Debug\Hangman.csproj.GenerateResource.cache
+C:\Users\Alina\source\repos\Hangman\Hangman\obj\Debug\Hangman.csproj.CoreCompileInputs.cache
+C:\Users\Alina\source\repos\Hangman\Hangman\obj\Debug\Hangman.exe
+C:\Users\Alina\source\repos\Hangman\Hangman\obj\Debug\Hangman.pdb
