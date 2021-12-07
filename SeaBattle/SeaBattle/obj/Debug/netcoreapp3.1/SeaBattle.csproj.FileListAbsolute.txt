@@ -1,0 +1,17 @@
+C:\Users\ak.gutnova\source\repos\SeaBattle\SeaBattle\bin\Debug\netcoreapp3.1\SeaBattle.exe
+C:\Users\ak.gutnova\source\repos\SeaBattle\SeaBattle\bin\Debug\netcoreapp3.1\SeaBattle.deps.json
+C:\Users\ak.gutnova\source\repos\SeaBattle\SeaBattle\bin\Debug\netcoreapp3.1\SeaBattle.runtimeconfig.json
+C:\Users\ak.gutnova\source\repos\SeaBattle\SeaBattle\bin\Debug\netcoreapp3.1\SeaBattle.runtimeconfig.dev.json
+C:\Users\ak.gutnova\source\repos\SeaBattle\SeaBattle\bin\Debug\netcoreapp3.1\SeaBattle.dll
+C:\Users\ak.gutnova\source\repos\SeaBattle\SeaBattle\bin\Debug\netcoreapp3.1\SeaBattle.pdb
+C:\Users\ak.gutnova\source\repos\SeaBattle\SeaBattle\obj\Debug\netcoreapp3.1\SeaBattle.csproj.AssemblyReference.cache
+C:\Users\ak.gutnova\source\repos\SeaBattle\SeaBattle\obj\Debug\netcoreapp3.1\SeaBattle.Form1.resources
+C:\Users\ak.gutnova\source\repos\SeaBattle\SeaBattle\obj\Debug\netcoreapp3.1\SeaBattle.Properties.Resources.resources
+C:\Users\ak.gutnova\source\repos\SeaBattle\SeaBattle\obj\Debug\netcoreapp3.1\SeaBattle.csproj.GenerateResource.cache
+C:\Users\ak.gutnova\source\repos\SeaBattle\SeaBattle\obj\Debug\netcoreapp3.1\SeaBattle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ak.gutnova\source\repos\SeaBattle\SeaBattle\obj\Debug\netcoreapp3.1\SeaBattle.AssemblyInfoInputs.cache
+C:\Users\ak.gutnova\source\repos\SeaBattle\SeaBattle\obj\Debug\netcoreapp3.1\SeaBattle.AssemblyInfo.cs
+C:\Users\ak.gutnova\source\repos\SeaBattle\SeaBattle\obj\Debug\netcoreapp3.1\SeaBattle.csproj.CoreCompileInputs.cache
+C:\Users\ak.gutnova\source\repos\SeaBattle\SeaBattle\obj\Debug\netcoreapp3.1\SeaBattle.dll
+C:\Users\ak.gutnova\source\repos\SeaBattle\SeaBattle\obj\Debug\netcoreapp3.1\SeaBattle.pdb
+C:\Users\ak.gutnova\source\repos\SeaBattle\SeaBattle\obj\Debug\netcoreapp3.1\SeaBattle.genruntimeconfig.cache
